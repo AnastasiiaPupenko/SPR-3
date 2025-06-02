@@ -1,3 +1,5 @@
+//Funkcie bližšie neurčenej tematiky
+
 #include <stdio.h>   
 #include <math.h>     
 
